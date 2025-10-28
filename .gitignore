@@ -1,0 +1,6 @@
+# DotNet Project
+bin/
+obj/
+
+# VSCode
+.vscode/
